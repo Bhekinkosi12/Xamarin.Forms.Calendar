@@ -5,12 +5,19 @@ using System.Runtime.CompilerServices;
 // Change them to the values specific to your project.
 
 [assembly: AssemblyTitle ("Xamarin.Forms.Calendar")]
+
 [assembly: AssemblyDescription ("")]
+
 [assembly: AssemblyConfiguration ("")]
+
 [assembly: AssemblyCompany ("")]
+
 [assembly: AssemblyProduct ("")]
+
 [assembly: AssemblyCopyright ("michaelridland")]
+
 [assembly: AssemblyTrademark ("")]
+
 [assembly: AssemblyCulture ("")]
 
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
